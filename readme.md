@@ -448,11 +448,11 @@ https://www.cloudskillsboost.google/
 
 ## 8) Rol QA
 **QA** o **Quality Assurance** (Aseguramiento de la Calidad) es una disciplina fundamental en el desarrollo de software que se encarga de garantizar que los productos cumplan con los estándares de calidad establecidos antes de llegar al usuario final.
-# ¿Qué hace un QA?
+### ¿Qué hace un QA?
 
 Un profesional de QA actúa como el **guardián de la calidad**, siendo responsable de identificar defectos, inconsistencias y problemas de usabilidad en aplicaciones, sistemas web, móviles o software en general. Su trabajo va más allá de simplemente "encontrar bugs"; se trata de asegurar que el producto funcione correctamente bajo diferentes condiciones y escenarios.
 
-## Responsabilidades Principales
+### Responsabilidades Principales
 
 **Planificación de Pruebas:** Diseña estrategias de testing basadas en los requisitos del proyecto, creando casos de prueba detallados que cubran diferentes funcionalidades y escenarios de uso.
 
@@ -461,21 +461,21 @@ Un profesional de QA actúa como el **guardián de la calidad**, siendo responsa
 **Documentación:** Registra detalladamente los defectos encontrados, proporcionando información precisa sobre cómo reproducir los problemas para facilitar su corrección por parte del equipo de desarrollo.
 
 **Colaboración Cross-funcional:** Trabaja estrechamente con desarrolladores, product managers y diseñadores para comprender los requisitos y asegurar que se implementen correctamente.
-## Tipos de Pruebas que Realiza
+### Tipos de Pruebas que Realiza
 
 El QA maneja diferentes niveles de testing: pruebas unitarias (componentes individuales), pruebas de integración (interacción entre módulos), pruebas de sistema (funcionalidad completa) y pruebas de aceptación (validación final con criterios de negocio).
 También se especializa en pruebas específicas como testing de APIs, pruebas de regresión para verificar que nuevas funcionalidades no rompan las existentes, y pruebas de compatibilidad across diferentes navegadores, dispositivos y sistemas operativos.
 
-## Herramientas y Metodologías
+### Herramientas y Metodologías
 Los profesionales de QA utilizan herramientas como Selenium, Cypress o Playwright para automatización, JIRA para gestión de defectos, y frameworks de testing específicos según la tecnología del proyecto. Trabajan dentro de metodologías ágiles como Scrum, participando en sprints y ceremonias del equipo.
 
-## Impacto en el Negocio
+### Impacto en el Negocio
 Un QA efectivo previene que bugs críticos lleguen a producción, lo que evita costos de corrección post-lanzamiento, protege la reputación de la empresa y mejora la experiencia del usuario. Su trabajo contribuye directamente a la confiabilidad del producto y la satisfacción del cliente.
 El rol de QA es esencial en cualquier equipo de desarrollo serio, actuando como una barrera de calidad que asegura que solo el software que cumple con los estándares establecidos llegue a los usuarios finales.
 
 ## Habilidades Esenciales para un Profesional de QA
 
-# Habilidades Técnicas
+### Habilidades Técnicas
 
 **Testing Manual y Automatizado:**  
 Dominio de técnicas de pruebas manuales exploratorias y capacidad para crear y mantener scripts de automatización usando herramientas como Selenium, Cypress, Playwright o TestComplete.
@@ -492,7 +492,7 @@ Experiencia con herramientas como Postman, REST Assured o SoapUI para probar int
 **Herramientas de Gestión:** 
 Manejo de plataformas como JIRA, Azure DevOps, TestRail o Zephyr para documentar casos de prueba, reportar defectos y hacer seguimiento del progreso.
 
-# Habilidades Analíticas
+### Habilidades Analíticas
 
 **Pensamiento Crítico:** 
 Capacidad para analizar requisitos, identificar posibles escenarios de falla y diseñar casos de prueba que cubran edge cases y situaciones complejas.
@@ -503,7 +503,7 @@ Habilidad para investigar la causa raíz de los defectos, reproducir issues de m
 **Atención al Detalle:** 
 Minuciosidad para detectar inconsistencias sutiles, errores de usabilidad y problemas que otros podrían pasar por alto.
 
-# Habilidades de Comunicación
+### Habilidades de Comunicación
 
 **Documentación Clara:** 
 Capacidad para escribir reportes de defectos detallados, casos de prueba comprensibles y documentación técnica que otros miembros del equipo puedan seguir fácilmente.
@@ -550,7 +550,7 @@ Un QA exitoso combina estas habilidades técnicas con soft skills sólidas, mant
 
 ## 9) Links recomendados para capacitación Rol QA
 
-## Plataformas de Cursos Universitarios y Certificaciones
+### Plataformas de Cursos Universitarios y Certificaciones
 
 **Coursera - Cursos de Quality Assurance**
 📌 https://www.coursera.org/courses?query=quality+assurance
@@ -559,7 +559,7 @@ Incluye cursos destacados como Software Testing and Automation de la Universidad
 **Coursera - Software Testing Especializado**
 📌 https://www.coursera.org/courses?query=software+testing
 Ofrece cursos y certificados de universidades líderes y empresas reconocidas en testing de software Best Software Testing Courses & Certificates Online [2025] | Coursera
-## Cursos Pagos Especializados
+### Cursos Pagos Especializados
 
 **Udemy - Quality Assurance Courses**
 📌 https://www.udemy.com/topic/quality-assurance/
@@ -568,7 +568,7 @@ Aprende las mejores herramientas y estrategias de QA con instructores mejor valo
 **Simplilearn - Automation Testing Masters Program**
 📌 https://www.simplilearn.com/automation-testing-masters-program-certification-training-course
 Conocimiento completo de tecnologías como Selenium, TestNG, Maven, Appium y Docker para construir frameworks de testing robustos Best Automation Testing Courses Online in 2025 – QA Automation Certification & Training
-## Recursos Gratuitos de Alta Calidad
+### Recursos Gratuitos de Alta Calidad
 
 **ToolsQA - Tutorial Gratuito para Principiantes**
 📌 https://www.toolsqa.com/software-testing/software-testing-tutorial/
@@ -595,7 +595,7 @@ Curso gratuito que enseña qué es el testing de software, cómo comenzar y dón
 📌 https://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/
 Portal comunitario desde 2006 que ofrece entrenamiento gratuito con proyectos en vivo de testing manual Manual Software Testing Live Project Free Training
 
-## Certificaciones Profesionales
+### Certificaciones Profesionales
 
 **BrowserStack Test University**
 📌 https://www.browserstack.com/guide/qa-professional-certification
@@ -605,7 +605,7 @@ Plataforma de aprendizaje online para QA y desarrolladores que ofrece más de 40
 📌 https://www.lambdatest.com/blog/qa-certifications/
 Guía completa de las mejores 17 certificaciones de QA para 2025, cubriendo tanto testing manual como automatización Best 17 QA Certifications in 2025 | LambdaTest
 
-## Recursos Adicionales y Comunidades
+### Recursos Adicionales y Comunidades
 
 **Class Central - Quality Assurance Courses**
 📌 https://www.classcentral.com/subject/quality-assurance
@@ -615,7 +615,7 @@ Más de 700 cursos online de QA que cubren metodologías de testing, sistemas de
 📌 https://github.com/3024k/QA-RESOURCES
 Repositorio dedicado a almacenar recursos de conocimiento sobre SQA y otras tecnologías y herramientas útiles GitHub - 3024k/QA-RESOURCES: This repository is for storing the knowledge resources regarding SQA and other useful technologies, tools
 
-# Recomendaciones de Uso
+### Recomendaciones de Uso
 - Para Principiantes: Comienza con los tutoriales gratuitos de ToolsQA y Guru99, luego complementa con el curso introductorio de Udemy.
 - Para Nivel Intermedio: Considera los cursos de Coursera de universidades reconocidas y explora BrowserStack Test University.
 - Para Especialización: Udemy y Simplilearn ofrecen cursos avanzados en automatización y herramientas específicas.
