@@ -550,6 +550,77 @@ Un QA exitoso combina estas habilidades técnicas con soft skills sólidas, mant
 
 ## 9) Links recomendados para capacitación Rol QA
 
+## Plataformas de Cursos Universitarios y Certificaciones
+
+**Coursera - Cursos de Quality Assurance**
+📌 https://www.coursera.org/courses?query=quality+assurance
+Incluye cursos destacados como Software Testing and Automation de la Universidad de Minnesota y Foundations of Software Testing and Validation de la Universidad de Leeds, cubriendo QA de software, automatización de pruebas y metodologías de mejora de procesos Best Quality Assurance Courses & Certificates Online [2025] | Coursera
+
+**Coursera - Software Testing Especializado**
+📌 https://www.coursera.org/courses?query=software+testing
+Ofrece cursos y certificados de universidades líderes y empresas reconocidas en testing de software Best Software Testing Courses & Certificates Online [2025] | Coursera
+## Cursos Pagos Especializados
+
+**Udemy - Quality Assurance Courses**
+📌 https://www.udemy.com/topic/quality-assurance/
+Aprende las mejores herramientas y estrategias de QA con instructores mejor valorados, desde testing manual hasta implementación de programas de aseguramiento de calidad Top Quality Assurance (QA) Courses Online - Updated [July 2025]
+
+**Simplilearn - Automation Testing Masters Program**
+📌 https://www.simplilearn.com/automation-testing-masters-program-certification-training-course
+Conocimiento completo de tecnologías como Selenium, TestNG, Maven, Appium y Docker para construir frameworks de testing robustos Best Automation Testing Courses Online in 2025 – QA Automation Certification & Training
+## Recursos Gratuitos de Alta Calidad
+
+**ToolsQA - Tutorial Gratuito para Principiantes**
+📌 https://www.toolsqa.com/software-testing/software-testing-tutorial/
+Tutorial gratuito que incluye preparación para ISTQB y cierra la brecha entre conocimiento teórico e implementación del mundo real Free Software Testing Tutorial for Beginners | ISTQB Preparation Tutorials
+
+**Software Testing Material**
+📌 https://www.softwaretestingmaterial.com/
+Plataforma que ayuda a millones de testers de software a construir carrera en testing, con recursos actualizados constantemente Software Testing Material: Free QA Resources & Tutorials
+
+**Guru99 - Software Testing Tutorial**
+📌 https://www.guru99.com/software-testing.html
+Ofrece exposición en tiempo real al testing analizando proyectos en vivo y encontrando bugs, con proyectos de testing en vivo disponibles Software Testing Tutorial
+
+**GeeksforGeeks - Software Testing Tutorial**
+📌 https://www.geeksforgeeks.org/software-testing/software-testing-tutorial/
+Plataforma educativa integral que empodera a estudiantes en múltiples dominios incluyendo testing de software Software Testing Tutorial - GeeksforGeeks
+## Cursos Introductorios Gratuitos
+
+**Udemy - Introduction to Software Testing**
+📌 https://www.udemy.com/course/introduction-to-software-testing-or-software-qa/
+Curso gratuito que enseña qué es el testing de software, cómo comenzar y dónde aprender más Free Software Testing Tutorial - Introduction to Software Testing or Software QA | Udemy
+
+**Software Testing Help - Live Project Training**
+📌 https://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/
+Portal comunitario desde 2006 que ofrece entrenamiento gratuito con proyectos en vivo de testing manual Manual Software Testing Live Project Free Training
+
+## Certificaciones Profesionales
+
+**BrowserStack Test University**
+📌 https://www.browserstack.com/guide/qa-professional-certification
+Plataforma de aprendizaje online para QA y desarrolladores que ofrece más de 40 cursos relacionados con testing Top QA Certifications for Beginners & Advanced Professionals | BrowserStack
+
+**LambdaTest - QA Certifications Guide**
+📌 https://www.lambdatest.com/blog/qa-certifications/
+Guía completa de las mejores 17 certificaciones de QA para 2025, cubriendo tanto testing manual como automatización Best 17 QA Certifications in 2025 | LambdaTest
+
+## Recursos Adicionales y Comunidades
+
+**Class Central - Quality Assurance Courses**
+📌 https://www.classcentral.com/subject/quality-assurance
+Más de 700 cursos online de QA que cubren metodologías de testing, sistemas de gestión de calidad y testing automatizado con Python 700+ Quality Assurance Online Courses for 2025 | Explore Free Courses & Certifications | Class Central
+
+**GitHub - QA Resources Repository**
+📌 https://github.com/3024k/QA-RESOURCES
+Repositorio dedicado a almacenar recursos de conocimiento sobre SQA y otras tecnologías y herramientas útiles GitHub - 3024k/QA-RESOURCES: This repository is for storing the knowledge resources regarding SQA and other useful technologies, tools
+
+# Recomendaciones de Uso
+- Para Principiantes: Comienza con los tutoriales gratuitos de ToolsQA y Guru99, luego complementa con el curso introductorio de Udemy.
+- Para Nivel Intermedio: Considera los cursos de Coursera de universidades reconocidas y explora BrowserStack Test University.
+- Para Especialización: Udemy y Simplilearn ofrecen cursos avanzados en automatización y herramientas específicas.
+- Para Certificación Profesional: Revisa la guía de LambdaTest para identificar las certificaciones más relevantes para tu carrera.
+
 ## 10) Desarrollador Android
 ## ¿Qué es?
 Android es un sistema operativo basado en Linux diseñado principalmente para dispositivos móviles con pantalla táctil, como smartphones y tabletas.
