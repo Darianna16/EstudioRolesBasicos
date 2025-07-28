@@ -11,11 +11,11 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 4. Motta Medina, Brayan Teodoro - bmottam@unsa.edu.pe - Desarrollador Backend
 5. Molina soncco, Percy - pmolinaso@unsa.edu.pe - Desarrollador QA Assurance
 6. Mendoza Taco David Jose Luis  - dmendozat@unsa.edu.pe - Desarrollador Backend
-7. Quispe Balcon Martha Beatriz - mquispebal@unsa.edu.pe
+7. Quispe Balcon Martha Beatriz - mquispebal@unsa.edu.pe - Desarrolador Android
 8. Salas Zegarra, Marco Antonio - msalasze@unsa.edu.pe
 9. Valdivia Flores Manuel Djins - mvaldiviaf@unsa.edu.pe - Desarrollador Backend
-10. Cruz Kana Pamela Greis - pcruzk@unsa.edu.pe 
-12. 
+10. Cruz Kana Pamela Greis - pcruzk@unsa.edu.pe - Desarrollador Android
+12. Velo Poma Yamira Yesica -                   - Desarrollador Frontend
 
 ## 1) Conceptos Generales para tener en cuenta
 Cuando desarrollamos aplicaciones, ya sea para web o dispositivos móviles, usamos distintas herramientas que nos ayudan a trabajar más rápido y con mejor estructura. Entre estas herramientas están las librerías, los frameworks y los patrones de diseño, y aunque a veces se confunden, en realidad son cosas distintas.
