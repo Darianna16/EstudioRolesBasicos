@@ -549,6 +549,8 @@ Conocimiento de particularidades del testing en dispositivos móviles, incluyend
 Un QA exitoso combina estas habilidades técnicas con soft skills sólidas, manteniéndose siempre actualizado en un campo que evoluciona constantemente con nuevas tecnologías y metodologías.
 
 ## 9) Links recomendados para capacitación Rol QA
+**Learn Quality Assurance**: freeCodeCamp Courses
+https://www.freecodecamp.org/learn/quality-assurance/
 
 ## 10) Desarrollador Android
 ## ¿Qué es?
